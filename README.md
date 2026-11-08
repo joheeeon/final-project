@@ -11,8 +11,8 @@
 | 작성자 | 조희언 |
 | 학번 | 202136042 |
 | 저장소 | final-project |
-| 배포 플랫폼 | Streamlit Community Cloud 예정 |
-| 배포 URL | 배포 후 추가 |
+| 배포 플랫폼 | Streamlit Community Cloud |
+| 배포 URL | [모아 바로가기](https://final-project-ladf7t9gaa2buoxo62bzxs.streamlit.app/) |
 
 ## 주요 기능
 
